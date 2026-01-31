@@ -1,10 +1,24 @@
-# SwiftTranslator QA Test Suite
+# SwiftTranslator Test Automation – Assignment 1
 
-A comprehensive Playwright test suite for validating the SwiftTranslator web application, which translates Singlish (colloquial Sri Lankan English-Sinhala mix) to proper Sinhala script.
+**Module:** ITPM
+**Assignment:** Assignment 1  
+**Student Name:** Dilum Randira  
+**Student ID:** IT23173354  
+**Tool Used:** Playwright  
 
-## Overview
+---
 
-This test suite validates the core translation functionality of SwiftTranslator using automated end-to-end tests. It covers positive scenarios, edge cases, and UI behavior.
+## 1. Project Description
+
+This project contains automated test cases developed using **Playwright** to test the **SwiftTranslator** web application, which translates Singlish text into Sinhala.
+
+The automation focuses on:
+- Functional correctness
+- Robustness against invalid input
+- Formatting handling
+- Basic UI behavior
+
+
 
 **Application Under Test:** https://www.swifttranslator.com/
 
