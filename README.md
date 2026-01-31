@@ -235,8 +235,9 @@ When adding new test cases:
 
 ## License
 
-[Add your license information here]
+This project is created for educational purposes as part of IT3040 coursework.
 
 ## Contact
 
-[Add contact/support information here]
+IT23173354
+BSc (Hons) in Information Technology - Year 3
